@@ -1,14 +1,15 @@
-hi, i'm [subhadeep choudhuri](), a passionate self-taught frontend developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Subhadeep Choudhuri](https://www.linkedin.com/in/subhadeepchoudhuri), a seasoned software engineer with three years of corporate and freelance experience. I specialize in React and boast full-stack development skills. My passion lies in exploring new ideas and tackling challenges head-on, making me an ideal candidate for driving innovation and building successful startups.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast. I learned a lot from the open-source community and love how collaboration and knowledge sharing happen through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/subhadeepCh/subhadeepCh/blob/main/code.gif" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any freelance work? do reach, [email](mailto:subhadeep.cwork@gmail.com) :)
+- 📝 Any interesting topic to write on, [medium](https://medium.com/@subhadeep-choudhuri)
+- 💬 ask me about anything, I am happy to help;
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -21,32 +22,19 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-```txt
-HTML         2 hrs 22 mins   ███████████████▒░░░░░░░░░   61.65 %
-JavaScript   45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 %
-TypeScript   35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-```
+<a href="https://buymeacoffee.com/subhadeepce" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymea" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
+🚧 **My todoist stats:**
 <!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+🏆  Write 1 article every month         
+🌸  Post Leetcode solutions          
+✅  Increase activity in open source         
+⏳  Create a npm package
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 my Github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=subhadeepCh&show_icons=true&theme=gotham" alt="subhadeepCh" />
