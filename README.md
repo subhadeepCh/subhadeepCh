@@ -268,10 +268,6 @@ Inbound lead flow is chaos. WhatsApp, Instagram DMs, email, forms — leads pour
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhadeepCh&bg_color=0D1117&color=6EE7B7&line=3B82F6&point=8B5CF6&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/subhadeepCh/subhadeepCh/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 <p align="center"><b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b></p>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
